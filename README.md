@@ -1,0 +1,19 @@
+## full_aeon6737m_65_d_n-user 7.0 NRD90M 1490336671 release-keys
+- Manufacturer: homtom
+- Platform: mt6737m
+- Codename: aeon6737m_65_d_n
+- Brand: Maxwest
+- Flavor: full_aeon6737m_65_d_n-user
+- Release Version: 7.0
+- Kernel Version: 
+- Id: NRD90M
+- Incremental: 1490336671
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: es-ES
+- Screen Density: 240
+- Fingerprint: Maxwest/full_aeon6737m_65_d_n/aeon6737m_65_d_n:7.0/NRD90M/1490336671:user/release-keys
+- OTA version: 
+- Branch: full_aeon6737m_65_d_n-user-7.0-NRD90M-1490336671-release-keys
+- Repo: maxwest_aeon6737m_65_d_n_dump
