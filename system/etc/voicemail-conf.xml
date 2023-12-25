@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<voicemail>
+<voicemail numeric="70402" carrier="Guatemala" vmnumber="*77" vmtag="Buzón de voz"/>
+<voicemail numeric="704020" carrier="Guatemala" vmnumber="*77" vmtag="Buzón de voz"/>
+<voicemail numeric="70603" carrier="El Salvador" vmnumber="*80" vmtag="Buzón de voz"/>
+<voicemail numeric="706030" carrier="El Salvador" vmnumber="*80" vmtag="Buzón de voz"/>
+<voicemail numeric="70802" carrier="Honduras" vmnumber="*90" vmtag="Buzón de voz"/>
+<voicemail numeric="708020" carrier="Honduras" vmnumber="*90" vmtag="Buzón de voz"/>
+<voicemail numeric="73603" carrier="Bolivia" vmnumber="*123" vmtag="Buzón de voz"/>
+<voicemail numeric="74404" carrier="Paraguay" vmnumber="*98" vmtag="Buzón de voz"/>
+<voicemail numeric="732103" carrier="Colombia 1" vmnumber="*123" vmtag="Buzón de voz"/>
+<voicemail numeric="732111" carrier="Colombia 2" vmnumber="*123" vmtag="Buzón de voz"/>
+</voicemail>
